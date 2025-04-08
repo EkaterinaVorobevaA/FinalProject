@@ -1,0 +1,5 @@
+route_id,distance,duration,cost,expression,variables
+R1,120,90,25.5,p and not q,"{'p': True, 'q': False}"
+R2,100,60,18.0,p or q,"{'p': False, 'q': True}"
+R3,80,50,20.0,not p,"{'p': False, 'q': True}"
+R4,150,110,30.0,p and q,"{'p': True, 'q': True}"
