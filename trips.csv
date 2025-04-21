@@ -1,0 +1,6 @@
+city,budget,duration,activity,logic_expression
+Paris,1200.0,5,museum,p ∧ q
+Bangkok,800.0,10,beach,p ∨ ¬q
+New York,1500.0,7,city tour,p → q
+Rome,900.0,6,ruins,¬p ∧ q
+Tokyo,2000.0,4,tech expo,p ↔ q
