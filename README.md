@@ -24,9 +24,6 @@ This project was created as part of a semester-long assignment to demonstrate pr
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Authors](#authors)
-- [License](#license)
 
 ---
 
@@ -53,6 +50,6 @@ Usage
     4. Save last sorted trips to CSV
     5. Compare performance of sorting algorithms
     6. Exit
-    
+
 Enter city name like Rome or Tokyo.
 All data is read from trips.csv.
